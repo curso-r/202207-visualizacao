@@ -42,6 +42,7 @@ Fora do horário de aula ou monitoria:
 | script                                                                                                  |
 |:--------------------------------------------------------------------------------------------------------|
 | [praticas/01-ggplot2.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/01-ggplot2.R) |
+| [praticas/02-cores.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/02-cores.R)     |
 
 ## Lição de casa
 
