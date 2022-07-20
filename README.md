@@ -39,10 +39,12 @@ Fora do horário de aula ou monitoria:
 
 ## Parte prática das aulas
 
-| script                                                                                                  |
-|:--------------------------------------------------------------------------------------------------------|
-| [praticas/01-ggplot2.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/01-ggplot2.R) |
-| [praticas/02-cores.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/02-cores.R)     |
+| script                                                                                                                      |
+|:----------------------------------------------------------------------------------------------------------------------------|
+| [praticas/01-ggplot2.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/01-ggplot2.R)                     |
+| [praticas/02-cores.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/02-cores.R)                         |
+| [praticas/03-otimizacao-visual.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/03-otimizacao-visual.R) |
+| [praticas/xx-monitoria-01.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/xx-monitoria-01.R)           |
 
 ## Lição de casa
 
