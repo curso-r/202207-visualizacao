@@ -49,6 +49,10 @@ Fora do horário de aula ou monitoria:
 | [praticas/06-ggridges.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/06-ggridges.R)                   |
 | [praticas/07-gganimate.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/07-gganimate.R)                 |
 | [praticas/08-ggtext.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/08-ggtext.R)                       |
+| [praticas/09-plotly.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/09-plotly.R)                       |
+| [praticas/10-highcharter.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/10-highcharter.R)             |
+| [praticas/11-reactable.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/11-reactable.R)                 |
+| [praticas/12-leaflet.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/12-leaflet.R)                     |
 | [praticas/xx-monitoria-01.R](https://github.com/curso-r/202207-visualizacao/blob/main/praticas/xx-monitoria-01.R)           |
 
 ## Lição de casa
